@@ -1,7 +1,7 @@
 # 4-bit ALU – CircuitVerse
 
 ## 🔧 Project Description
-A 4-bit Arithmetic Logic Unit (ALU) designed in CircuitVerse. Performs basic operations like addition, subtraction, AND, OR, and XOR based on 3-bit opcode.
+A 4-bit Arithmetic Logic Unit (ALU) designed in CircuitVerse. Performs basic operations like addition, subtraction, AND, OR based on 3-bit opcode.
 
 ## ✅ Features
 - 4-bit inputs A and B
