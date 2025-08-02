@@ -1,13 +1,12 @@
 # 4-Bit Full Adder – CircuitVerse
 
-## 🧠 Project Overview
-**[Short 1-2 sentence summary]**  
-This project demonstrates the implementation of a 4-bit Full Adder using [CircuitVerse](https://circuitverse.org). It performs [4 Bit Addition] with inputs [A,B] and outputs [S,Cout].
+## 🧠 Project Overview 
+This project demonstrates the implementation of a 4-bit Full Adder using [CircuitVerse](https://circuitverse.org). It performs [4 Bit Addition] with inputs A,B and outputs S,Cout.
 
 ## ✅ Key Features
-- Functionality: performs 4 bit addition[e.g., performs ADD, SUB, AND, OR]
-- Inputs: A(0,1,2,3), B(0,1,2,3)[List of inputs]
-- Outputs: S(0,1,2,3),Cout[List of outputs]
+- Functionality: performs 4 bit addition
+- Inputs: A(0,1,2,3), B(0,1,2,3)
+- Outputs: S(0,1,2,3),Cout
 
 ## 📂 Files Included
 - `4-Bit Full Adder.json` – Raw exported CircuitVerse file
