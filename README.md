@@ -33,14 +33,12 @@ This repository contains a curated collection of essential **combinational digit
 Each subfolder typically contains:
 - `circuit.cv` – Exported CircuitVerse circuit file
 - `circuit.png` – Screenshot of the circuit schematic
-- `simulation.mp4` – (Optional) Simulation video
 - `README.md` – Documentation for the specific module
 
 ---
 
 ## 🛠 Tools Used
 - [CircuitVerse](https://circuitverse.org) – For simulation and design
-- GitHub – To manage and share the project repository
 
 ---
 
