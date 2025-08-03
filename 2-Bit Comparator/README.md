@@ -9,7 +9,7 @@ This project demonstrates the implementation of a Comparator using [CircuitVerse
 - Outputs: A > B, A = B, A < B
 
 ## 📂 Files Included
-- `2-Bit Comparator.json` – Raw exported CircuitVerse file
+- `2-Bit Comparator.cv` – Raw exported CircuitVerse file
 - `2-Bit Comparator.png` – Schematic image of the circuit
 - `README.md` – Documentation for this module
 

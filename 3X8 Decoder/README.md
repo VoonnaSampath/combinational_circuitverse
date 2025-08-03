@@ -9,7 +9,7 @@ This project demonstrates the implementation of a Binary to BCD Converter using 
 - Outputs: y[0:7]
 
 ## 📂 Files Included
-- `3X8 Decoder.json` – Raw exported CircuitVerse file
+- `3X8 Decoder.cv` – Raw exported CircuitVerse file
 - `3X8 Decoder.png` – Schematic image of the circuit
 - `README.md` – Documentation for this module
 

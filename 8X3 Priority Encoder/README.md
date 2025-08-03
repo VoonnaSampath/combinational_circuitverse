@@ -9,7 +9,7 @@ This project demonstrates the implementation of a Priority Encoder using [Circui
 - Outputs: Y[0:2]
 
 ## 📂 Files Included
-- `8X3 Priority Encoder.json` – Raw exported CircuitVerse file
+- `8X3 Priority Encoder.cv` – Raw exported CircuitVerse file
 - `8X3 Priority Encoder.png` – Schematic image of the circuit
 - `README.md` – Documentation for this module
 

@@ -9,7 +9,7 @@ This project demonstrates the implementation of a 4-bit Full Adder using [Circui
 - Outputs: S(0,1,2,3),Cout
 
 ## 📂 Files Included
-- `4-Bit Full Adder.json` – Raw exported CircuitVerse file
+- `4-Bit Full Adder.cv` – Raw exported CircuitVerse file
 - `4 Bit Full Adder.png` – Schematic image of the circuit
 
 ## 🔗 Live Simulation

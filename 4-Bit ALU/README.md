@@ -14,7 +14,7 @@ A 4-bit Arithmetic Logic Unit (ALU) designed in CircuitVerse. Performs basic ope
 - Built and simulated on CircuitVerse platform
 
 ## 📁 Files
-- `4bit_alu.json`: Exported raw circuit file
+- `4bit_alu.cv`: Exported raw circuit file
 - `4bit_alu.png`: Screenshot of the full ALU circuit
 
 ## 🔗 Live Project
