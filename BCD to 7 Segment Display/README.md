@@ -38,25 +38,25 @@ Each of the 7 output segments (`a` to `g`) is driven by a unique Boolean functio
 ### Segment Logic Examples:
 
 - **Segment a**  
-  `a = C+BD+B'D'+A`
+  `a = C + BD + B'D' + A`
 
 - **Segment b**  
-  `b = B' C'D' CD`
+  `b = B' + C'D' + CD`
 
 - **Segment c**  
-  `c = D B C' `
+  `c = D + B + C' `
 
 - **Segment d**  
-  `d = B'D' B'C BC'D CD' A`
+  `d = B'D' + B'C + BC'D + CD' + A`
 
 - **Segment e**  
-  `e = B'D' CD'`
+  `e = B'D' + CD'`
 
 - **Segment f**  
-  `f = C'D' BC' BD' A`
+  `f = C'D' + BC' + BD' + A`
 
 - **Segment g**  
-  `g = B'C BC' A CD'`
+  `g = B'C + BC' + A + CD'`
 
 > Note: Logic may vary depending on whether **common cathode** or **common anode** display is used. Above logic is tailored for **common cathode** displays where high = ON.
 
