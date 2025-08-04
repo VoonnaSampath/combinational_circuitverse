@@ -9,8 +9,8 @@ This project demonstrates the implementation of **binary subtraction using 1's c
   - `A[3:0]` – 4-bit Minuend
   - `B[3:0]` – 4-bit Subtrahend
 - **Outputs**:
-  - `Diff[3:0]` – 4-bit binary difference
-  - `Carry` – End-around carry flag (if used)
+  - `D[3:0]` – 4-bit binary difference
+  - `Cout` – End-around carry flag (if used)
 - **Controlled using**: Parallel full adders, NOT gates for 1’s complement, and logic for carry adjustment
 
 ## 📂 Files Included
@@ -42,7 +42,7 @@ To compute A - B using 1’s complement:
 |-------------|----------------|-------------|------------------|---------------|
 |  1010 (10)   |  1001 (9)      |  0110     |     0111        | 0001 (1)      |
 
-> Carry-out exists → add it back → final result is 2
+> Carry-out exists → add it back → final result is 1
 
 ---
 
