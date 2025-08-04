@@ -4,9 +4,6 @@
 # MacOS system files
 .DS_Store
 
-# Thumbnails or previews
-*.png
-*.mp4
 
 # Simulation logs (if any)
 *.log
