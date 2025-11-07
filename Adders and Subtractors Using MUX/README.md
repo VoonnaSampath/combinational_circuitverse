@@ -1,6 +1,7 @@
 # Adders and Subtractors Using MUX – CircuitVerse
 
 ## 🧠 Project Overview
+
 This project demonstrates the implementation of basic **arithmetic logic circuits** — Half Adder, Half Subtractor, Full Adder, and Full Subtractor — using only **multiplexers (MUX)** in [CircuitVerse](https://circuitverse.org). The logic functions (XOR, AND, OR, NOT) required for arithmetic are mapped into MUX selection and input lines to eliminate the need for dedicated logic gates.
 
 ## ✅ Key Features

@@ -1,7 +1,7 @@
-BCD to 7 Segment Display
 # BCD to 7-Segment Display Decoder using Logic Gates – CircuitVerse
 
 ## 🧠 Project Overview
+
 This project demonstrates the implementation of a **BCD (Binary-Coded Decimal) to 7-Segment Display Decoder** using only **basic logic gates** in [CircuitVerse](https://circuitverse.org). It accepts a 4-bit BCD input (0000 to 1001) and lights up the appropriate segments (`a` to `g`) on a common cathode 7-segment display.
 
 The design avoids ROM or multiplexers, instead relying on **minimized Boolean expressions** derived from truth tables and Karnaugh Maps for each segment.
@@ -35,7 +35,7 @@ The design avoids ROM or multiplexers, instead relying on **minimized Boolean ex
 
 Each of the 7 output segments (`a` to `g`) is driven by a unique Boolean function derived from the BCD input values for digits `0` to `9`. The logic for each segment is implemented **directly using gates**, with minimized expressions.
 
-### Segment Logic Examples:
+### Segment Logic Examples
 
 - **Segment a**  
   `a = C + BD + B'D' + A`
@@ -44,7 +44,7 @@ Each of the 7 output segments (`a` to `g`) is driven by a unique Boolean functio
   `b = B' + C'D' + CD`
 
 - **Segment c**  
-  `c = D + B + C' `
+  `c = D + B + C'
 
 - **Segment d**  
   `d = B'D' + B'C + BC'D + CD' + A`
