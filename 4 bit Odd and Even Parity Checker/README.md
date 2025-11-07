@@ -38,7 +38,7 @@ This project demonstrates the implementation of a **4-bit Parity Checker** using
 - **If the result is 0**, parity is **correct**.
 - **If the result is 1**, there is a **parity error**.
 
-### Logic:
+### Logic
 
 - Even parity check: `Even_Error = D0 ⊕ D1 ⊕ D2 ⊕ D3 ⊕ P`
 - Odd parity check:  `Odd_Error = ¬(D0 ⊕ D1 ⊕ D2 ⊕ D3 ⊕ P)`

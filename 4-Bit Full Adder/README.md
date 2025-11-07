@@ -1,6 +1,6 @@
 # 4-Bit Full Adder – CircuitVerse
 
-## 🧠 Project Overview 
+## 🧠 Project Overview
 
 This project demonstrates the implementation of a 4-bit Full Adder using [CircuitVerse](https://circuitverse.org). It performs [4 Bit Addition] with inputs A,B and outputs S,Cout.
 

@@ -1,6 +1,6 @@
 # 8X3 Priority Encoder  – CircuitVerse
 
-## 🧠 Project Overview 
+## 🧠 Project Overview
 
 This project demonstrates the implementation of a Priority Encoder using [CircuitVerse](https://circuitverse.org). It performs Encoding with inputs D and outputs Y.
 

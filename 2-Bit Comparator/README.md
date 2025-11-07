@@ -6,7 +6,7 @@ This project demonstrates the implementation of a Comparator using [CircuitVerse
 
 ## ✅ Key Features
 
-- Functionality: Comparison 
+- Functionality: Comparison
 - Inputs: A[0:1], B[0:1]
 - Outputs: A > B, A = B, A < B
 
